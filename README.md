@@ -66,6 +66,6 @@ Building AI that doesn’t just perform — but understands, learns, and evolves
 
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=pavanbr593&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Brunda66&style=flat-square&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
