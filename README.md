@@ -5,6 +5,4 @@ I focus on building end-to-end AI and machine learning workflows, starting from 
 
 I balance theoretical learning with practical implementation, aiming to build models that are not only accurate but also understandable, reliable, and useful in practice, while continuously improving my skills through projects and experimentation.
 
-Driven by curiosity and guided by innovation, I continuously explore advancements in large language models, multimodal AI, and data-centric learning, with a long-term vision of contributing to ethical, adaptive, and scalable AI systems.
-
 Building AI that doesn’t just perform — but understands, learns, and evolves.
