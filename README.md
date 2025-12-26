@@ -9,7 +9,7 @@ Building AI that doesn’t just perform — but understands, learns, and evolves
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunda-r-gowda-636b9337a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://pavan-bendre-r-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://brunda-r-gowda-portfolio.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BrundaaGowda)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
